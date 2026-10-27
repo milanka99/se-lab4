@@ -1,0 +1,4 @@
+# output-8.txt
+SUCCESS
+SUCCESS
+FAIL

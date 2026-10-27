@@ -1,0 +1,5 @@
+# input-11.txt
+gt4500,10,0,10,0
+torpedo,single
+exit
+TORPEDO,SINGLE
